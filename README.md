@@ -29,7 +29,7 @@ Google Drive
 
 ## Conclusions
 
-- Solutions accuracy is nearly 85% on validation set
+- Solutions accuracy is nearly 83% on validation set
 - There is some overfitting, but it reduces with increased epoch
 - The model may also be improved with hyperparameter tuning
 - The model's accuracy can be further improved if we get larger dataset for training and testing
